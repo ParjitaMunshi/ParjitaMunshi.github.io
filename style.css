@@ -1,0 +1,42 @@
+.nav-pills .nav-link, .nav-pills .show>.nav-link {
+     color: #fff; 
+     background-color: #000000!important;
+}
+.main_body{
+    background-color: #000000;
+    /* background-image: url("galaxy.jpg"); */
+    height: auto;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main_body1{
+    background-image: url("galaxy.jpg"); 
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading1{
+    color:#fff;
+    font-size: 20px;
+}
+
+.info{
+    font-size: 20px;
+    color:#fff;
+
+}
+.planet_image1{
+    height:50%;
+    width:50%;
+}
+
+.fav{
+    cursor: pointer;
+}
+.checkbox{
+    height: 20px;
+    width: 30px;
+}
